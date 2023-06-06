@@ -20,11 +20,11 @@ Scoring System:
 The base 3 x 3 matrix demonstrating the score of rock paper scissors between two
 players is shown below.
 
-   User
-            (R) (P) (S)
-         (R) 0  -1   1
- U x S = (P) 1   0  -1 Susan
-         (S) -1  1   0
+                    User
+                 (R) (P) (S)
+              (R) 0  -1   1
+      U x S = (P) 1   0  -1 Susan
+              (S) -1  1   0
          
 In this matrix the two players' scores can be recorded: a win results in plus one, a tie ends
 with zero, and a loss results in negative one. This is the definition of a zero-sum game where
