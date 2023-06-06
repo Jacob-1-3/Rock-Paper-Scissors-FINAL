@@ -20,7 +20,7 @@ Scoring System:
 The base 3 x 3 matrix demonstrating the score of rock paper scissors between two
 players is shown below.
 
-               User
+   User
             (R) (P) (S)
          (R) 0  -1   1
  U x S = (P) 1   0  -1 Susan
